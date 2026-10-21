@@ -1,0 +1,12 @@
+package com.example.tp7jaxrs;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Tp7JaxrsApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+}
